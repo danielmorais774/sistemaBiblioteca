@@ -1,0 +1,41 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+//Admin-lte-scss
+//@import '~admin-lte/dist/css/adminlte.css';
+//@import "~admin-lte/dist/css/adminlte.min.css";
+
+
+
+//font awesome
+@import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "~@fortawesome/fontawesome-free/scss/solid.scss";
+@import "~@fortawesome/fontawesome-free/scss/brands.scss";
+
+@import "~noty/src/noty";
+@import "~noty/src/themes/mint";
+@import "~noty/src/themes/sunset";
+
+
+// Bootstrap
+//@import '~bootstrap/scss/bootstrap';
+@import "~admin-lte/dist/css/adminlte.min.css";
+
+
+.body-site{
+    margin-top: 20px;
+}
+.card-livro .card-body{
+    padding: 10px;
+}
+.card-livro h5{
+    font-size: 15px;
+    font-weight: bold;
+    color: #7a7682;
+}
+.card-livro p{
+    font-size: 12px;
+}
