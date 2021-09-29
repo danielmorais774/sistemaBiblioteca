@@ -29,7 +29,7 @@
         "admin-lte": "^3.0.0-rc.6",
         "alertifyjs": "^1.13.0",
         "argon": "^2.0.19",
-        "datatables.net": "^1.10.20",
+        "datatables.net": "^1.11.3",
         "datatables.net-dt": "^1.10.20",
         "laravel-image": "^1.0.3",
         "noty": "^3.2.0-beta",
